@@ -8,13 +8,13 @@ requirements = ["requests"]
 
 setup(
     name="lyricalabs-nexa",
-    version="0.3.3",
+    version="0.3.4",
     author="Lyrica Labs",
     author_email="lyricalabs@gmail.com",
     description="Lyrica Labs Nexa LLM API Python İstemci Kütüphanesi",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/lyricaizm/lyricalabs_nexa",
+    url="https://github.com/lyricaizm/lyricalabs-nexa",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -33,7 +33,7 @@ setup(
     keywords=["ai", "llm", "lyricalabs", "nexa", "api", "text-generation", "insomnia"],
     project_urls={
         "Documentation": "https://lyricalabs.vercel.app/docs",
-        "Source": "https://github.com/lyricaizm/lyricalabs_nexa",
-        "Tracker": "https://github.com/lyricaizm/lyricalabs_nexa/issues",
+        "Source": "https://github.com/lyricaizm/lyricalabs-nexa",
+        "Tracker": "https://github.com/lyricaizm/lyricalabs-nexa/issues",
     },
 )
