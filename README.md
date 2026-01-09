@@ -13,3 +13,4 @@ print(client.list_models())
 print(client.generate_text("Merhaba Utku!", model="nexa-5.0-preview"))
 ```
 [Hizmetlerimize, veya daha birçok AI modelimize erişmek için kayıt olabilirsiniz. ](https://lyricalabs.vercel.app?utm_source=github&utm_medium=profile&utm_campaign=readme) 
+ 
